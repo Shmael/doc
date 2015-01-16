@@ -17,7 +17,7 @@
   laver au liquide vaisselle.
 - Mettre une pinte d'eau brûlante dans le bac de la Kronenbourg.
 - Fermer tous les robinets de pression: sur chaque tête de fût, tous
-  ceux sous le comptoir, celui de la bouteille de gaz.
+  ceux sous le comptoir, et celui sur la bouteille de gaz.
 - Débrancher les fûts.
 - Vider le seau à bière.
 

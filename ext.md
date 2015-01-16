@@ -1,15 +1,16 @@
-# Pour les extés
+Pour les extés
+==============
 
-## Bières
+# Bières
 
-### Pressions
+## Pressions
 - Kronenbourg **2.5 / 4.5**
 - Grimbergen blanche **3.5 / 5.5**
 - Grimbergen rouge **3.5 / 5.5**
 - Grimbergen ambrée **3.5 / 5.5**
 - Carlsberg Elephant **3.5 / 5.5**
 
-### Bouteilles
+## Bouteilles
 - Desperados **4.5**
 - Pécheresse **3.5**
 - Kriek **3.5**
@@ -25,15 +26,15 @@
 - Triple Karmeliet **5**
 - Cuvée des Trolls **3.5**
 
-## Autres
+# Autres
 
-### Boissons
+## Boissons
 - Smirnoff Ice **4**
 - Kir **2**
 - Sangria **2**
 - Vin **2**
 - Soft **1**
 
-### Autres
+## Autres
 - Granita **1**
 - Snack **1**

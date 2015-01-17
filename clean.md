@@ -40,3 +40,8 @@ Ranger et laver
 - Fermer la caisse.
 - Fermer la grille.
 - Fermer la porte à clé.
+
+# Cautions
+- 100 pour le ménage
+- 150 pour le matériel
+- En cas de problème, elles sauteront sans hésitation.

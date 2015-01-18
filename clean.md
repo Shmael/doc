@@ -42,6 +42,6 @@ Ranger et laver
 - Fermer la porte à clé.
 
 # Cautions
-- 100 pour le ménage
-- 150 pour le matériel
-- En cas de problème, elles sauteront sans hésitation.
+- 100 pour le ménage.
+- 150 pour le matériel.
+- En cas de problème, elles seront encaissées sans hésitation.

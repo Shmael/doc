@@ -25,6 +25,7 @@ Pour les extés
 - Maredsous Triple **5**
 - Triple Karmeliet **5**
 - Cuvée des Trolls **3.5**
+- Karmeleet Blond **4**
 
 # Autres
 
@@ -34,6 +35,7 @@ Pour les extés
 - Sangria **2**
 - Vin **2**
 - Soft **1**
+- Tourtelle **2**
 
 ## Autres
 - Granita **1**

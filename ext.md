@@ -26,6 +26,8 @@ Pour les extés
 - Triple Karmeliet **5**
 - Cuvée des Trolls **3.5**
 - Kasteel Blonde **4**
+- BrewDog Punk IPA **5**
+- BrewDog 5am **5**
 
 # Autres
 

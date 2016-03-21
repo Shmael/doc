@@ -1,8 +1,3 @@
-# Pour les extés
-
-## Bières
-
-### Pressions
 Produit | Prix
 ------- | ----
 Kronenbourg Demi | 2.5
@@ -15,10 +10,6 @@ Grimbergen ambrée Demi | 3.5
 Grimbergen ambrée Demi | 5.5
 Carlsberg Elephant Demi | 3.5
 Carlsberg Elephant Demi | 5.5
-
-### Bouteilles
-Produit | Prix
-------- | ----
 Desperados | 4.5
 Pécheresse | 3.5
 Kriek | 3.5
@@ -36,21 +27,11 @@ Cuvée des Trolls | 3.5
 Kasteel Blonde | 4
 BrewDog Punk IPA | 5
 BrewDog 5am | 5
-
-## Autres
-
-### Boissons
-Produit | Prix
---------| ----
 Smirnoff Ice | 4
 Kir | 2
 Sangria | 2
 Vin | 2
 Soft | 1
 Tourtel Twist | 2
-
-### Autres
-Produit | Prix
---------| ----
 Granita | 1
 Snack | 1

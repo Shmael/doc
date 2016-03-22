@@ -1,15 +1,15 @@
 Produit | Prix
 ------- | ----
 Kronenbourg Demi | 2.5
-Kronenbourg Demi | 4.5
+Kronenbourg Pinte | 4.5
 Grimbergen blanche Demi | 3.5
-Grimbergen blanche Demi | 5.5
+Grimbergen blanche Pinte | 5.5
 Grimbergen rouge Demi | 3.5
-Grimbergen rouge Demi | 5.5
+Grimbergen rouge Pinte | 5.5
 Grimbergen ambrée Demi | 3.5
-Grimbergen ambrée Demi | 5.5
+Grimbergen ambrée Pinte | 5.5
 Carlsberg Elephant Demi | 3.5
-Carlsberg Elephant Demi | 5.5
+Carlsberg Elephant Pinte | 5.5
 Desperados | 4.5
 Pécheresse | 3.5
 Kriek | 3.5

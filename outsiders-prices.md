@@ -2,6 +2,7 @@ Outsider Prices
 ===============
 
 # Pressions
+
 Produit | Prix Demi | Prix Pinte
 ------- | --------- | ----------
 Kronenbourg Demi | 2.5 | 4.5
@@ -11,6 +12,7 @@ Grimbergen rouge Demi | 3.5 | 5.5
 Carlsberg Elephant Demi | 3.5 | 5.5
 
 # Bouteilles
+
 Produit | Prix
 ------- | ----
 1664 Blanche | 5
@@ -34,6 +36,8 @@ Tourtel Twist | 2
 Triple Karmeliet | 5
 
 # Autres
+Produit | Prix
+------- | ----
 Granita | 1
 Kir | 2
 Sangria | 2

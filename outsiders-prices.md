@@ -5,11 +5,11 @@ Outsider Prices
 
 Produit | Prix Demi | Prix Pinte
 ------- | --------- | ----------
-Kronenbourg Demi | 2.5 | 4.5
-Grimbergen blanche Demi | 3.5 | 5.5
-Grimbergen ambrée Demi | 3.5 | 5.5
-Grimbergen rouge Demi | 3.5 | 5.5
-Carlsberg Elephant Demi | 3.5 | 5.5
+Kronenbourg | 2.5 | 4.5
+Grimbergen blanche | 3.5 | 5.5
+Grimbergen ambrée | 3.5 | 5.5
+Grimbergen rouge | 3.5 | 5.5
+Carlsberg Elephant | 3.5 | 5.5
 
 # Bouteilles
 
